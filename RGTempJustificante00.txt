@@ -1,0 +1,13 @@
+RecieptsGen.
+Por EViasValdez
+V. Prototipo 0.1
+• • • • • • • • • • • • • • • • • • • • • • • • • • • •
+
+Reporte de generacion de justificante sin finalizar
+Motivo - Cierre de programa 
+00/00/00 00:00 
+
+|||| Informacion del justificante ||||
+Tipo de justificacion - Estudiantil
+Tipo de formato visual - Item 2
+Motivos - Texto de ejemplo
