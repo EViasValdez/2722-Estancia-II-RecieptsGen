@@ -3,5 +3,5 @@
 <!----Notas---->
 <!----Separador de las notas---->
 <!----Directorio con descripcion de los programas---->
-- Por ser hecho -
+- Descripcion del repositorio por ser hecha. -
 <!----Separador del directorio con descripcion de los programas---->
