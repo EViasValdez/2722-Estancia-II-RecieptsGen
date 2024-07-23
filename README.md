@@ -3,5 +3,5 @@
 <!----Notas---->
 <!----Separador de las notas---->
 <!----Directorio con descripción de los programas---->
-- Descripcion del repositorio aun por ser hecha -
+Este fue el primer bosquejo del programa que originalmente presente como una idea para el ciclo 2320.
 <!----Separador del directorio con descripción de los programas---->
