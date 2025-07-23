@@ -1,5 +1,4 @@
 # RecieptsGen
-
 ![Logo](https://github.com/EViasValdez/2722-Estancia-II-RecieptsGen/blob/main/RecieptsGen/src/imagenes/logonuevo288.png)
 
 <!----Notas---->
