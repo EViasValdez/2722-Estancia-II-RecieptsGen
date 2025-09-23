@@ -3,7 +3,7 @@ Por EViasValdez
 V. Prototipo 0.1
 • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-Reporte de generacion de justificante sin finalizar
+Reporte de generación de justificante sin finalizar
 Motivo - Cierre de programa 
 00/00/00 00:00 
 
