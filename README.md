@@ -5,7 +5,7 @@
 <!----Notas---->
 **Notas**
 
-**- Se debe tomar en cuenta que el programa puede tener ciertos inconvenientes a la hora de ejecutarse esto debido a problemas con las librerias.**
+**- Se debe tomar en cuenta que el programa puede tener ciertos inconvenientes a la hora de ejecutarse esto debido a problemas con las librerías.**
 
 **- No hay problema con el programa mostrando una advertencia, es algo normal.**
 <!----Separador de las notas---->
