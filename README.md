@@ -2,6 +2,10 @@
 
 ![Logo](https://github.com/EViasValdez/2722-Estancia-II-RecieptsGen/blob/main/RecieptsGen/src/imagenes/logonuevo288.png)
 
+<!----Descripción---->
+Por ser escrita.
+<!----Separador de la descripción ---->
+
 <!----Notas---->
 **Notas**
 
