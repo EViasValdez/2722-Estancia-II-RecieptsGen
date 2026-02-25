@@ -9,7 +9,7 @@ Como parte de la segunda estancia tuve que realizar un gran programa, esta idea 
 <!----Notas---->
 **Notas**
 
-**- Se debe tomar en cuenta que el programa puede tener ciertos inconvenientes a la hora de ejecutarse esto debido a problemas con las librerías.**
+**- Se debe tomar en cuenta que el programa puede tener ciertos inconvenientes a la hora de ejecutarse esto debido a problemas con las librerías que se utilizan.**
 
 **- No hay problema con el programa mostrando una advertencia, es algo normal de nuevo por las librerías.**
 <!----Separador de las notas---->
