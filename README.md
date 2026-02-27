@@ -8,7 +8,6 @@ Como parte de la segunda estancia tuve que realizar un gran programa, esta idea 
 
 <!----Notas---->
 **Notas**
-
 **- Se debe tomar en cuenta que el programa puede tener ciertos inconvenientes a la hora de ejecutarse esto debido a problemas con las librerías que se utilizan.**
 <!----Separador de las notas---->
 
