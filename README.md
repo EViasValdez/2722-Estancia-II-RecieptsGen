@@ -4,7 +4,7 @@
 
 <!----Descripción---->
 Como parte de la segunda estancia tuve que realizar un gran programa, esta idea salió de una serie de bosquejos que realice a comienzos de 2022, los mismos fueron puestos en practica para que se pudiera crear la idea de un programa que generara comprobantes de justificación de faltas en los alumnos de la UPT, esta es la primer version que fue desarrollada en Java.
-<!----Separador de la descripción ---->
+<!----Separador de la descripción---->
 
 <!----Notas---->
 **Notas**
