@@ -12,5 +12,5 @@ Como parte de la segunda estancia tuve que realizar un gran programa, esta idea 
 <!----Separador de las notas---->
 
 <!----Detalles---->
-Ninguno de momento.
+Ninguno de momento, aun los estoy planeando.
 <!----Separador de los detalles---->
