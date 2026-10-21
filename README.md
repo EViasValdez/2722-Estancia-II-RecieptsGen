@@ -8,7 +8,7 @@ Como parte de la segunda estancia tuve que realizar un gran programa, esta idea 
 
 <!----Notas---->
 **Notas**
-**- Se debe tomar en cuenta que el programa puede tener ciertos inconvenientes a la hora de ejecutarse debido a problemas con las librerías que se utilizan y la ubicación de las mismas.**
+**- Se debe tomar en cuenta que el programa puede tener ciertos inconvenientes a la hora de ejecutarse debido a problemas con las librerías que se utilizan, la ubicación y las versiones de las mismas.**
 <!----Separador de las notas---->
 
 <!----Detalles---->
